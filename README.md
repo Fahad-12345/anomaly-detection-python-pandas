@@ -28,8 +28,11 @@ This project analyzes monthly temperature data from different countries and visu
 ---
 ## 🚀 Getting Started
 git clone https://github.com/Fahad-12345/temperature-anomaly-detection.git
+
 cd temperature-anomaly-detection
+
 pip install -r requirements.txt
+
 jupyter notebook temperature_anomaly.ipynb
 
 ![Capture](https://github.com/user-attachments/assets/8dfc1564-7f10-4f85-8bd1-4194baaebec5)
