@@ -1,0 +1,21 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore environment files
+.env
+.venv/
+venv/
+env/
+
+# Ignore dataset zips or large data files (optional)
+*.zip
+
+# Ignore VSCode and other editor settings
+.vscode/
+.idea/
+*.swp
